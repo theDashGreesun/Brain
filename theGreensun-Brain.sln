@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theGreensun.Brain.BrainConsole", "theGreensun.Brain.Console\theGreensun.Brain.BrainConsole.csproj", "{97ECFF86-53BA-47F3-80C9-C0F94D0ACEB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theGreensun.Brain", "theGreensun.Brain\theGreensun.Brain.csproj", "{6F6FA3EC-4B4D-4FA7-A88B-0C6A2ABAB15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97ECFF86-53BA-47F3-80C9-C0F94D0ACEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ECFF86-53BA-47F3-80C9-C0F94D0ACEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ECFF86-53BA-47F3-80C9-C0F94D0ACEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97ECFF86-53BA-47F3-80C9-C0F94D0ACEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6FA3EC-4B4D-4FA7-A88B-0C6A2ABAB15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6FA3EC-4B4D-4FA7-A88B-0C6A2ABAB15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6FA3EC-4B4D-4FA7-A88B-0C6A2ABAB15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6FA3EC-4B4D-4FA7-A88B-0C6A2ABAB15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
